@@ -24,4 +24,4 @@ _Не удаляйте и не обращайте внимание на `.travis
 
 <img align="left" width="50" height="50" src="https://avatars0.githubusercontent.com/ml/4?s=82&v=4">
 
-Все Pull requests проверяються Trevis<br><img src='https://travis-ci.com/Dmitriy-407/schoolapp.svg?token=gkxM7FB6kn46wpATu1YC&branch=master'/>
+Все Pull requests проверяються Trevis<br><img src='https://travis-ci.com/Dmitriy-407/schoolappHtml.svg?token=gkxM7FB6kn46wpATu1YC&branch=master'/>
